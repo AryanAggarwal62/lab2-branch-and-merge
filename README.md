@@ -50,7 +50,7 @@ completed items so far) and `DataTypes.java` (remove the word TODO and your bug 
 
 ---
 
-- [X] Now, we'll merge the `task_1` branch back into `main`. When merging,
+- [ ] Now, we'll merge the `task_1` branch back into `main`. When merging,
 you need to be currently on the branch you are trying to merge into, so we'll first check out the main
 branch:
   - IntelliJ: `Git -> branches... -> main -> Checkout`
@@ -59,7 +59,7 @@ branch:
 
 ---
 
-- [X] We are back on `main`, so we can now do the merge and complete our work!
+- [ ] We are back on `main`, so we can now do the merge and complete our work!
   - IntelliJ: `Git -> Merge... -> task_1 -> Merge`
   - Terminal: `git merge task_1`
 
